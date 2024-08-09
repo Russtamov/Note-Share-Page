@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">1046419929124</string>
+    <string name="google_api_key" translatable="false">AIzaSyDjGc36dxbFpWcmKdlk5vSruDrxtufrogo</string>
+    <string name="google_app_id" translatable="false">1:1046419929124:android:b87fc71958ce3e6da100b1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDjGc36dxbFpWcmKdlk5vSruDrxtufrogo</string>
+    <string name="google_storage_bucket" translatable="false">note-share-81d69.appspot.com</string>
+    <string name="project_id" translatable="false">note-share-81d69</string>
+</resources>
